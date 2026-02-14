@@ -1,6 +1,12 @@
 # 👋 Hola, soy David Romo Escobar
 
 ### 💻 Desarrollador Full Stack | SysAdmin & SAP Basis | Perfil Híbrido
+Soy un **Desarrollador Full Stack** y **Administrador de Sistemas** con un perfil híbrido. Combino la estabilidad de la administración de sistemas (SAP Basis, SMR) con la creatividad del desarrollo de software (DAM, DAW).
+
+- 🔭 **Actualmente trabajando en:** Una Web App para la gestión y sorteo de torneos de FIFA (PHP & JS).
+- 🎓 **Formación:** Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) y estudiante de Desarrollo Web (DAW).
+- 💼 **Experiencia:** Administrador SAP Basis en Eviden, SysAdmin en Rovi y Desarrollador .NET en Venture Labs.
+- 🌱 **Aprendiendo:** Profundizando en arquitecturas web escalables y seguridad en el ciclo de vida del software.
 
 ---
 
