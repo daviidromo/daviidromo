@@ -42,6 +42,7 @@ Soy un **Desarrollador Full Stack** y **Administrador de Sistemas** con un perfi
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | **📦 StockApp (TFG)** | Sistema de gestión de inventarios con alertas automáticas y roles de usuario. | `Java` `JavaFX` `MySQL` `MVC` |
+| **✂️ TheCut (TFG)** | 🏗️ *En Planificación* | Futura aplicación colaborativa para administrar una barbería. Stack por definir. |
 | **⚽ Torneos App** | Aplicación web para automatizar sorteos y cruces de torneos de FIFA (En desarrollo). | `PHP` `HTML5` `CSS3` `JS` |
 
 ---
