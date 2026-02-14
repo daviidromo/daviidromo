@@ -2,23 +2,6 @@
 
 ### 💻 Desarrollador Full Stack | SysAdmin & SAP Basis | Perfil Híbrido
 
-> **¿Buscas un perfil todoterreno?**
->
-> Si buscas un profesional que no solo escriba código, sino que entienda **dónde se ejecuta**, la **seguridad** que necesita y cómo **desplegarlo** eficientemente, has llegado al lugar correcto.
->
-> Combino la lógica del desarrollo **(DAM/DAW)** con la solidez de la administración de sistemas **(SMR/SAP)** para ofrecer una visión 360º del ciclo de vida del software.
-
----
-
-<p align="left">
-  <a href="mailto:daviidromoo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/david-romo-escobar/in/tu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
 ---
 
 ### 🛠️ Stack Tecnológico & Herramientas
@@ -44,7 +27,6 @@
 <p>
   <img src="https://img.shields.io/badge/Scrum-Methodology-blue?style=for-the-badge&logo=scrum&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Final_Cut_Pro-CC66CC?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ---
@@ -58,5 +40,20 @@
 
 ---
 
-### 📊 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=daviidromo&show_icons=true&theme=radical&hide_border=true)
+> **¿Buscas un perfil todoterreno?**
+>
+> Si buscas un profesional que no solo escriba código, sino que entienda **dónde se ejecuta**, la **seguridad** que necesita y cómo **desplegarlo** eficientemente, has llegado al lugar correcto.
+>
+> Combino la lógica del desarrollo **(DAM/DAW)** con la solidez de la administración de sistemas **(SMR/SAP)** para ofrecer una visión 360º del ciclo de vida del software.
+
+---
+
+<p align="left">
+  <a href="mailto:daviidromoo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/david-romo-escobar/in/tu-usuario">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
